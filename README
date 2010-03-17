@@ -1,0 +1,37 @@
+#
+# SUUNTO X6HR log reader
+#
+# 17.March.2010
+ 
+* Name
+ x6hr.py
+ 
+* Author
+ tomoya KAMATA <lycopersin@gmail.com>
+
+* Purpose
+ x6hr.py allows you to access SUUNTO X6HR to download on Python script.
+ 
+* Functions
+ - read weather log
+ - read chrono logs
+ - read hiking logs
+ - store log data to CSV file
+ - plot on Gnuplot
+
+* Dependings Module
+ - pyserial
+ - Gnuplot.py
+ 
+* License
+ GPLv3
+ Please read LICENSE file
+ This program is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
+
+ You should have received a copy of the GNU General Public License
+ along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+

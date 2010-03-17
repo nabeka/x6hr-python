@@ -1,0 +1,29 @@
+#
+# SUUNTO X6HR log reader
+#
+# Copyright (c) 2010 Tomomya Kamata <lycopersin@gmail.com>
+#
+ 
+Name
+ x6hr.py
+ 
+作者
+ 鎌田 智也 (kamata tomoya) <lycopersin@gmail.com>
+ 
+対応機能
+ - 天気情報の読出し
+ - クロノログの読出し
+ - ハイキングログの読出し
+ - CSVファイルへの保存
+ - Gnuplotによるグラフ描画
+
+ライセンス
+ GPLv3ライセンス規約に従います
+ 詳細は附属のLICENCEファイルを参照ください
+ 本ソフトウエアがみなさんのお役に立つことを願っていますが，
+ 本ソフトウエアの動作に関しては全くの無保証です．
+ 本ソフトウエアの利用によって生じた損害に関しましていかなる
+ 責任も負いかねますので，ご理解の上ご利用下さい．
+
+
+ 
